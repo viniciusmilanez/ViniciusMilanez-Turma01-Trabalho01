@@ -1,8 +1,8 @@
 # JEST Unit Tests
 
-## Getting Started
+## Instruções
 
-In order to execute this project you must follow the steps below:
+Execute os passos abaixo para rodar o projeto:
 
 1. Run `npm install` para instalar as dependencias do projeto
 1. Run `npm run test` para executar o teste
