@@ -1,13 +1,5 @@
 # JEST Unit Tests
 
-## GitHub Actions
-
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
-
-## SonarCloud
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
-
 ## Getting Started
 
 In order to execute this project you must follow the steps below:
@@ -19,7 +11,7 @@ In order to execute this project you must follow the steps below:
 All execution artifacts can be found in `./coverage`, if you want to remove these files run `npm run clean`.
 
 # Validações
-Deve contar corretamente o número de tarefas (2 ms)                                                                                         
+    √ Deve contar corretamente o número de tarefas (2 ms)                                                                                         
     √ Deve adicionar uma tarefa                                                                                                                   
     √ Deve lançar erro ao adicionar uma tarefa com descrição inválida (8 ms)                                                                      
     √ Deve marcar uma tarefa como concluída (1 ms)                                                                                                
